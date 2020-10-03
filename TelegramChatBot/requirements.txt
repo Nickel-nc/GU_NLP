@@ -1,0 +1,7 @@
+python-telegram-bot
+dialogflow
+pymorphy2
+stop_words
+annoy
+gensim.models
+beautifulsoup4 
