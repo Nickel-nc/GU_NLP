@@ -5,7 +5,7 @@
 - Практические модули
 
 ---
-### [Telegram ChatBot](https://github.com/Nickel-nc/GU_NLP/tree/master/TelegramChatBot)
+### [Telegram ChatBot - Source Code](https://github.com/Nickel-nc/GU_NLP/tree/master/TelegramChatBot)
 
 #### [Sandbox Notebook](https://github.com/Nickel-nc/GU_NLP/blob/master/TelegramChatBot/Bot_R1D1_Sandbox.ipynb)
 - Итоговый проект курса. Основной функционал направлен на поддержание разговора и ответов на вопросы. В Dialog-flow хранится информация о боте, ответы на базовые вопросы и дежурные ответы (small-talk). Основная болталка обучена на парсинге "ответов mailru" (1.5 kk строк) - добавляет остроумных ответов на вопросы общего характера. За фактологическими знаниями программа лезет в яндекс-поисковик. 
